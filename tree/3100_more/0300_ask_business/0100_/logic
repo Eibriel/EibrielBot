@@ -1,0 +1,15 @@
+"comunication" in entities
+text comunication
+
+else
+text generic
+
+
+#rechazar_dar_info
+#no
+#no_se
+#error_clasificacion
+text no
+
+#no_empresa
+text no_bussines
