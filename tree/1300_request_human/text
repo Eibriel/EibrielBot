@@ -1,0 +1,7 @@
+set_title:request_email
+set_lang:es
+Por favor dejame tu correo electrónico y <em>Gabriel</em> estará contactándose con vos. (Escribí "Mi correo es nombre@empresa.com"))
+
+set_title:i_have_your_email
+set_lang:es
+Ya tengo tu correo electrónico, <em>Gabriel</em> va a estar comunicándose con vos en breve
