@@ -1,4 +1,4 @@
-"cat" in entities
+/*"cat" in entities
 text cat
 
 "dog" in entities
@@ -22,3 +22,4 @@ text guitar
 intent == "i_dont_know"
 confidence > 0.7
 text difficult_audience
+*/
