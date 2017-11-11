@@ -1,23 +1,31 @@
-cat:
+set_title:cat
+set_lang:es
 ![Salem](https://media.giphy.com/media/gchTqnh7eCSeQ/giphy.gif)
 
-dog:
+set_title:dog
+set_lang:es
 ![Dug](https://media.giphy.com/media/RhpyXdQXCWeS4/giphy.gif)
 
-refrigerator:
+set_title:refrigerator
+set_lang:es
 ![Heladera](https://media.giphy.com/media/E3GJ7iKZcHWQU/giphy.gif)
 
-washing_machine:
+set_title:washing_machine
+set_lang:es
 ![Lavarropas](https://media.giphy.com/media/E3GJ7iKZcHWQU/giphy.gif)
 
-cactus:
+set_title:cactus
+set_lang:es
 ![](https://media.giphy.com/media/l0HlHgiDgsW2c32p2/giphy.gif)
 
-ghost:
+set_title:ghost
+set_lang:es
 ![](https://media.giphy.com/media/3otPookn7DsURqGxMI/giphy.gif)
 
-guitar:
+set_title:guitar
+set_lang:es
 ![Guitarrista](https://media.giphy.com/media/PcLZLXy05qPQs/giphy.gif)
 
-difficult_audience:
+set_title:difficult_audience
+set_lang:es
 Hmm, un público difícil :P

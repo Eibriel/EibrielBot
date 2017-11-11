@@ -1,53 +1,71 @@
-comunication:
+set_title:comunication
+set_lang:es
 ¡La comunicación es lo mío! Tengo una profunda pasión por contar historias
 
-filmaking:
+set_title:filmaking
+set_lang:es
 La comunicación audiovisual es muy importante hoy en día
 
-indumentaria:
+set_title:indumentaria
+set_lang:es
 Si hacés indumentaria debés tener una relación muy estrecha con tus clientes
 
-turismo:
+set_title:turismo
+set_lang:es
 Me imagino que debe ser muy importante poder entender que clase de experiencia quiere tu cliente
 
-gastronomia:
+set_title:gastronomia
+set_lang:es
 ¡Justo que me está dando hambre!
 
-arquitectura:
+set_title:arquitectura
+set_lang:es
 Interesante, en la arquitectura siempre es importante poder transmitir las ideas correctamente
 
-eventos:
+set_title:eventos
+set_lang:es
 ¡Suena entretenido! Brindar experiencias únicas debe ser un trabajo complejo
 
-jardines verticales:
+set_title:jardines verticales
+set_lang:es
 Sería lindo que en un futuro las ciudades sean grandes jardines
 
-animación de fiestas:
+set_title:animación de fiestas
+set_lang:es
 Lo tendré en cuenta para mi próximo aniversario :D
 
-estudio de animación:
+set_title:estudio de animación
+set_lang:es
 ¡La ilusión de vida a través del movimiento! Es algo con lo que me siento muy relacionado
 
-diseño:
+set_title:diseño
+set_lang:es
 Interesante, a través del diseño se genera una relación muy estrecha con el cliente
 
-trasmedia:
+set_title:trasmedia
+set_lang:es
 La inmersión de un espectador usuario en un mundo, me encanta eso
 
-publicidad:
+set_title:publicidad
+set_lang:es
 En ese caso debés saber lo importante que es "darle vida a una marca"
 
-educacion:
+set_title:educacion
+set_lang:es
 Entonces transmitir conocimientos e información debe ser muy importante para vos
 
-chatbots:
+set_title:chatbots
+set_lang:es
 ¡Excelente! Estamos entre colegas entonces
 
-generic:
+set_title:generic
+set_lang:es
 ¡Qué bueno! En ese caso supongo que la comunicación con tus clientes es muy importante
 
-no:
+set_title:no
+set_lang:es
 Entiendo, te cuento lo que hacemos nosotros
 
-no_bussines:
+set_title:no_bussines
+set_lang:es
 Entiendo
