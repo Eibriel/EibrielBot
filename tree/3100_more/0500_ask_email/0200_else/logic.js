@@ -3,3 +3,4 @@
 parsed_email != ""
 text thank_you
 */
+evaluate=true;
